@@ -1,0 +1,19 @@
+body{
+    background-color: aquamarine;
+}
+
+#Score_Span{
+    font-size: 28px;
+    margin-left: 25px;
+}
+
+#Timer_Span{
+    font-size: 28px;
+    float: right;
+    margin-right: 55px;
+}
+
+#Paragraph_Sketch_To_Be_Drawn{
+    font-size: 25px;
+    color: blue;
+}
